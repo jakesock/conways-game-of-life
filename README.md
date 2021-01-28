@@ -1,5 +1,7 @@
 # Conway's Game of Life
 
+Try it out [**here**](https://jakesock.github.io/conways-game-of-life/)!
+
 ## Rules
 
 - Any live cell with fewer than two live neighbors dies (underpopulation).
@@ -11,10 +13,7 @@ Read more about it [**here**](https://en.wikipedia.org/wiki/Conway%27s_Game_of_L
 
 ## TODO
 
-- [ ] Style Buttons
-- [ ] Style Page
 - [ ] Add dropdown with pre-defined patterns
 - [ ] Add dropdown or color picker for live cell colors
-- [ ] Refactor
 
 _This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)._
