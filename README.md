@@ -10,3 +10,11 @@ _This project was bootstrapped with [Create React App](https://github.com/facebo
 - Any live cell with two or three live neighbors lives on to the next generation
 
 Read more about it [**here**](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+## TODO
+
+- [ ] Style Buttons
+- [ ] Style Page
+- [ ] Add dropdown with pre-defined patterns
+- [ ] Add dropdown or color picker for live cell colors
+- [ ] Refactor
